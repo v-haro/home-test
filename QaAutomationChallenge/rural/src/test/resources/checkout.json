@@ -1,0 +1,15 @@
+[
+  {
+  "fullname": "John Doe",
+  "name_on_card": "John Doe",
+  "email": "johndoe@example.com",
+  "credit_card_number": "1234-5678-9012-3456",
+  "address": "123 Main St",
+  "exp_month": "January",
+  "city": "Anytown",
+  "exp_year": "2024",
+  "cvv": "123",
+  "state": "CA",
+  "zip": "12345"
+  }
+]
